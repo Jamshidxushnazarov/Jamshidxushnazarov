@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm 👋 [Ismingiz]</h1>
+<h1 align="center">Hi there, I'm 👋 Jamshid Xushnazarov</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+Angular+lover;Always+learning+new+things!" alt="Typing SVG" />
 </p>
@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me:
 
-- 🎓 Men [Universitet nomi] da o‘qiyman / bitirganman, [yo‘nalish nomi] yo‘nalishida.
+- 🎓 Men Toshkent axborot texnologiyalari universitetida 4-kursda o‘qiyman , kompyuter enjineringi yo‘nalishida.
 - 💻 Asosiy yo‘nalishim: Frontend Development (React, Angular).
 - 📚 Hozirda Backend (Node.js, Firebase) texnologiyalarini o‘rganmoqdaman.
 - 🚀 Maqsadim — to‘liq stak dasturchiga aylanish.
