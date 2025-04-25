@@ -12,7 +12,7 @@
 - 📚 Hozirda Backend (Node.js, Firebase) texnologiyalarini o‘rganmoqdaman.
 - 🚀 Maqsadim — to‘liq stak dasturchiga aylanish.
 - 💬 Menga quyidagilar haqida savol berishingiz mumkin: HTML, CSS, JavaScript, React, Angular, Git, Firebase.
-- 📫 Aloqa uchun: [emailingiz] | [LinkedIn profil](#) | [Telegram username](#)
+- 📫 Aloqa uchun: [xushnazarovjamshid927@gmail.com] | [LinkedIn profil](#) | [Jamshid_1014](#)
 
 ---
 
